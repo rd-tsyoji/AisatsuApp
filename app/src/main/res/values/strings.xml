@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AisatsuApp</string>
+    <string name="BUTTON_LABEL">時刻を設定</string>
+    <string name="TEXT_VIEW_INITIAL">上のボタンで時刻をセット</string>
+    <string name="GREETING_MORNING">おはよう</string>
+    <string name="GREETING_DAYTIME">こんにちは</string>
+    <string name="GREETING_NIGHT">こんばんは</string>
+</resources>
